@@ -1,5 +1,5 @@
 # Facebook Hosts To Block With Pi-Hole - Updated Jan 8th, 2017
-# Facebook
+
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-act.channel.facebook.com
